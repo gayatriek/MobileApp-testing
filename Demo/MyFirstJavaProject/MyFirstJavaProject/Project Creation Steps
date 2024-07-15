@@ -1,0 +1,7 @@
+1. Maven Project
+2. Public Entity Class -Pizza (private instance variables, constructors, getters & setters , toSTring method)
+3. Custom Exception class , which will extend Exception ( STring msg, Constructor, toSTring)
+4. DAO Layer - PizzaDAO interface - //CRUD - define methods with no body 
+				- PizzaDAOImpl class - which will interact with the Database
+6. Test the DAO Service with the Junit Framework
+5. Service Layer - PizzaService interface - //CRUD - define methods with no body 

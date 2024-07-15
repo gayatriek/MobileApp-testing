@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;chromedriver.exe&apos; to &apos;Desktop_Application/src/driver&apos;&#x0D;&#x0A;- Original project: &apos;ds_automobiles&apos;&#x0D;&#x0A;- Destination element: &apos;Desktop_Application/src/driver&apos;&#x0D;&#x0A;- Original element: &apos;chromedriver.exe&apos;" description="Copy file" destination="=Desktop_Application/src=/optional=/true=/=/maven.pomderived=/true=/&lt;driver" element1="src/test/java/driver1/chromedriver.exe" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1706698023770" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="120.605" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validation of Website" name="Validation of Ds_Website" time="120.267">
+<system-out><![CDATA[
+Given DS website is open on Mobile..........................................passed
+Then Click on Menu (top left) and verify DS MODELS, THE DS EXPERIENCE,BUY & RENT and YOUR DS options are available and clickable.passed
+Then Click the menu items on the left corner of the home page...............passed
+Then Check MM paragraphs/items are properly displayed.......................passed
+Then Click on buttons/links available in Home page..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
